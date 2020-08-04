@@ -30,10 +30,10 @@ ms.locfileid: "85403295"
 
 ## <a name="the-startup-class"></a>Startup 类
 
-`Startup` 类位于：
+`Startup` 类用于：
 
-* 已配置应用所需的服务。
-* 应用的请求处理管道定义为一系列中间件组件。
+* 配置应用所需的服务。
+* 定义应用的请求处理管道，即一系列中间件组件。
 
 下面是 `Startup` 类示例：
 
